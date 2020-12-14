@@ -1,0 +1,18 @@
+apiVersion: v1
+entries:
+  cross-capi-metal:
+  - apiVersion: v1
+    appVersion: 0.0.1
+    created: "2020-12-14T11:52:52.955647536-06:00"
+    description: cross-capi-metal demonstration application.
+    digest: 67a837921b9f6acdbf40c290b2b40617652eff11928f35d50beaf1f7da697c1b
+    keywords:
+    - example
+    - equinix
+    - crossplane
+    - capi
+    name: cross-capi-metal
+    urls:
+    - https://kubecon-na.github.io/charts/cross-capi-metal-0.0.1.tgz
+    version: 0.0.1
+generated: "2020-12-14T11:52:52.955291098-06:00"
