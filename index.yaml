@@ -3,7 +3,7 @@ entries:
   cross-capi-metal:
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2021-01-19T08:50:07.330378349-06:00"
+    created: "2021-01-19T08:54:27.0379505-06:00"
     description: cross-capi-metal demonstration application.
     digest: 67a837921b9f6acdbf40c290b2b40617652eff11928f35d50beaf1f7da697c1b
     keywords:
@@ -18,11 +18,20 @@ entries:
   doc:
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2021-01-19T08:50:07.33051747-06:00"
+    created: "2021-01-19T08:54:27.038144356-06:00"
+    description: doc demonstration application.
+    digest: 3b4c6c2954dba6b800e31a7c920c4359128d8137ab5e07124838ebbfb1576ffa
+    name: doc
+    urls:
+    - doc-0.0.2.tgz
+    version: 0.0.2
+  - apiVersion: v1
+    appVersion: 0.0.1
+    created: "2021-01-19T08:54:27.038048252-06:00"
     description: doc demonstration application.
     digest: c7fc3bfc8c786072b464d08784f522301e09ae9eba343de10fccbccfc5d8949d
     name: doc
     urls:
     - doc-0.0.1.tgz
     version: 0.0.1
-generated: "2021-01-19T08:50:07.330164771-06:00"
+generated: "2021-01-19T08:54:27.037719685-06:00"
