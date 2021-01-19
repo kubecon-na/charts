@@ -3,7 +3,7 @@ entries:
   cross-capi-metal:
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2020-12-14T11:59:53.506908973-06:00"
+    created: "2021-01-19T08:26:25.645548673-06:00"
     description: cross-capi-metal demonstration application.
     digest: 67a837921b9f6acdbf40c290b2b40617652eff11928f35d50beaf1f7da697c1b
     keywords:
@@ -13,6 +13,16 @@ entries:
     - capi
     name: cross-capi-metal
     urls:
-    - https://kubecon-na.github.io/charts/cross-capi-metal-v0.0.1.tgz
+    - cross-capi-metal-v0.0.1.tgz
     version: 0.0.1
-generated: "2020-12-14T11:59:53.506513049-06:00"
+  doc:
+  - apiVersion: v1
+    appVersion: 0.0.1
+    created: "2021-01-19T08:26:25.645648295-06:00"
+    description: doc demonstration application.
+    digest: 6c8f60b201165c4fe93f443489b9e123db8524cbf8a946765de63b7757c7274b
+    name: doc
+    urls:
+    - doc-0.0.1.tgz
+    version: 0.0.1
+generated: "2021-01-19T08:26:25.645334822-06:00"
